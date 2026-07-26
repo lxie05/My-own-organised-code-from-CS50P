@@ -7,4 +7,4 @@ This repo contains my problem set solutions from **CS50's Introduction to Progra
 - `week2/` – Loops
 
 ## About
-I'm working through CS50P to build a foundation in Python — covering functions, loops, exceptions, file I/O, and object-oriented programming. Each folder corresponds to a week of the course, with my solution to that week's problem set(s).
+I'm working through CS50P to build a foundation in Python — covering functions, loops, exceptions, file I/O, and object-oriented programming. Each folder corresponds to a week of the course, with my solution to that week's problem sets.
